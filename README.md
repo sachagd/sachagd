@@ -1,6 +1,7 @@
 <div align="center">
   
-  ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachagd&theme=github_dark)
+  ![Top Langs](https://stats.dooboo.io/api/top-langs?username=sachagd&layout=compact&theme=dark)
+
 
 
 </div>
