@@ -1,7 +1,5 @@
 <div align="center">
   
-  ![Top Langs](https://stats.dooboo.io/api/top-langs?username=sachagd&layout=compact&theme=dark)
-
-
+  ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sachagd&layout=compact&theme=onedark)
 
 </div>
